@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryDatabase", "LibraryDatabase\LibraryDatabase.csproj", "{EA8B0CE4-59DA-4291-9F22-BF598358766D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryDatabase.Infrastructure", "LibraryDatabase.Infrastructure\LibraryDatabase.Infrastructure.csproj", "{591AF701-BCCE-49B3-A9B1-5E38D245CB66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA8B0CE4-59DA-4291-9F22-BF598358766D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA8B0CE4-59DA-4291-9F22-BF598358766D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA8B0CE4-59DA-4291-9F22-BF598358766D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA8B0CE4-59DA-4291-9F22-BF598358766D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{591AF701-BCCE-49B3-A9B1-5E38D245CB66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{591AF701-BCCE-49B3-A9B1-5E38D245CB66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{591AF701-BCCE-49B3-A9B1-5E38D245CB66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{591AF701-BCCE-49B3-A9B1-5E38D245CB66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B47F9948-D540-4FDB-A232-612F44EA09AA}
+	EndGlobalSection
+EndGlobal

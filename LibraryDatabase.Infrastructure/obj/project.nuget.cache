@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mTm8j3GqaKxE/u6bYby6atfAcQtP5qIzk5OmIMFS1Dy+eykF54ARSTAZY/AX5z5yVLO8Svoo+vGerM72NAm2yA==",
+  "success": true,
+  "projectFilePath": "/Users/leman/Desktop/LibraryDatabase/LibraryDatabase.Infrastructure/LibraryDatabase.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/leman/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "/Users/leman/.nuget/packages/microsoft.netcore.app.ref/6.0.12/microsoft.netcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
